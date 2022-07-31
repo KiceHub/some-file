@@ -2,6 +2,7 @@
 ! Title: AdRules (For DNS)
 ! Original project: https://github.com/Cats-Team/AdRules
 ! From: AdGuardDNS, 1hosts, adgk
+! Revise: K - 2022-02-07
 @@dnsotls-ds.metric.gstatic.com^
 @@|ads.adsterra.com^|
 @@|adsterra.com^|
@@ -19905,7 +19906,6 @@
 ||click.mobile-bt.com^
 ||click.moneyoffer.pro^
 ||click.mrrage.com^
-||click.mz.simba.taobao.com^
 ||click.negociosdigitaisnapratica.com.br^
 ||click.nudevista.com^
 ||click.official.nike.com^
